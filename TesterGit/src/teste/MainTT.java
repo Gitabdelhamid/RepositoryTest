@@ -4,7 +4,6 @@ public class MainTT {
 
 	public static void main(String[] args) {
 
-		// @WebMethod
 		// public boolean versement(@WebParam(name="codeCompte") String
 		// codeCompte,
 		// @WebParam(name="montant") double montant,
