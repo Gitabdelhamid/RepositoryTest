@@ -26,7 +26,6 @@ public class MainTT {
 		// return operationMetier.virement(codeCompte1, codeCompte2, montant,
 		// codeEmplye);
 		// }
-		//
 		System.out.println("hello repository !");
 			System.out.println("hello repository depuis le serveurs !");
 		//
